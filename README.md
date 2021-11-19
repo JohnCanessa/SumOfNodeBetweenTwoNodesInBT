@@ -10,7 +10,7 @@ Codility_, HackerRank, LeetCode.
 If interested in my approach and comments I invite you to
 read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/11/20/sum-of-nodes-between-two-nodes-in-binary-tree/
 
 Keep in mind that one of the best ways to learn and refresh 
 concepts is to read and experiment. I hav ebeen told that
